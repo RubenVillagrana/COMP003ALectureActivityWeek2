@@ -23,7 +23,7 @@ namespace COMP003ALectureActivityWeek2
    string username = "Ruben"; // declaring a variable (1 of 3)
                Console.WriteLine(username); // request for user input
                username = Console.ReadLine(); // assigning a value to a variable (2 of 3)
-               Console.WriteLine("Hi " + username); // retrieving its current value (3 of 3)
+               Console.WriteLine("Hi " + "username"); // retrieving its current value (3 of 3)
     
 
             // another example of the three primary variable related activities 
